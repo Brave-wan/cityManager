@@ -212,6 +212,7 @@
                                         datagrid.datagrid('reload');
                                         $("#messageId").val("");
                                     }
+
                                 }
                             });
                         }
